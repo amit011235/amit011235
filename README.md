@@ -6,6 +6,8 @@
 - have a view on medium https://medium.com/@0ammy112 
 - U can also have a look at my blog https://enjoyjourney1.blogspot.com/ 
 - https://leetcode.com/amit6200/
+- http://linkedin.com/in/amit-kumar-01
+
 
 <!---
 amit011235/amit011235 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
