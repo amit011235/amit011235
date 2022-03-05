@@ -8,6 +8,7 @@
 - my linkedIn- https://linkedin.com/in/amit-kumar-01
 - https://leetcode.com/amit6200/
 - https://www.codechef.com/users/amit_011235
+- Discord Id- amit011#5512
 
 
 <!---
