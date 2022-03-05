@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amit011235
+- 👋 Hi, I’m @amit
 - 👀 I’m interested in data science and regulatory policy studies
 - 🌱 I’m currently learning python/matplotlib
 - 💞️ I’m looking to collaborate on pandas project
