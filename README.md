@@ -6,8 +6,8 @@
 - have a view on medium https://medium.com/@0ammy112 
 - U can also have a look at my blog https://enjoyjourney1.blogspot.com/ 
 - my linkedIn- https://linkedin.com/in/amit-kumar-01
-- https://leetcode.com/amit6200/
 - https://www.codechef.com/users/amit_011235
+- https://leetcode.com/amit6200/
 - Discord Id- amit011#5512
 
 
